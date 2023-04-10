@@ -17,7 +17,7 @@
 ### Links
 
 - Solution URL: [Here](https://github.com/nehanawar025/restaurant-slide)
-- Live Site URL: [Live Demo](https://nehanawar025.github.io/Contact-Me/)
+- Live Site URL: [Live Demo](https://nehanawar025.github.io/restaurant-slide/)
 
 
 ### Built with
